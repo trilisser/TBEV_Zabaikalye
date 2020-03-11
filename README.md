@@ -3,7 +3,6 @@
 
 **Models annotation:**
 
-
 **TBEV_GTR+I+Femp+UCLD+BSP8.xml**
 - Sub. model - GTR+G4+I (Empirical freqs)
 - Mol. clock - Relaxed clock (Lognormal)
