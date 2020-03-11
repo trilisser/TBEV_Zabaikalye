@@ -4,32 +4,32 @@
 **Models annotation:**
 
 **TBEV_GTR+I+Femp+UCLD+BSP8.xml**
-- Sub. model - GTR+G4+I (Empirical freqs)
+- Sub. model - GTR+I (Empirical freqs)
 - Mol. clock - Relaxed clock (Lognormal)
 - Tree prior - Bayesian skyline plot (8 groups)
 
 **TBEV_GTR+I+Femp+UCLD+CS.xml**
-- Sub. model - GTR+G4+I (Empirical freqs)
+- Sub. model - GTR+I (Empirical freqs)
 - Mol. clock - Relaxed clock (Lognormal)
 - Tree prior - Constant size
 
 **TBEV_GTR+I+Femp+UCLD+EGgr.xml**
-- Sub. model - GTR+G4+I (Empirical freqs)
+- Sub. model - GTR+I (Empirical freqs)
 - Mol. clock - Relaxed clock (Lognormal)
 - Tree prior - Exponential growth (Growth rate)
 
 **TBEV_HKY+G+Femp+UCLD+BSP8.xml**
-- Sub. model - HKY+G4+I (Empirical freqs)
+- Sub. model - HKY+G4 (Empirical freqs)
 - Mol. clock - Relaxed clock (Lognormal)
 - Tree prior - Bayesian skyline plot (8 groups)
 
 **TBEV_HKY+G+Femp+UCLD+CS.xml**
-- Sub. model - HKY+G4+I (Empirical freqs)
+- Sub. model - HKY+G4 (Empirical freqs)
 - Mol. clock - Relaxed clock (Lognormal)
 - Tree prior - Constant size
 
 **TBEV_HKY+G+Femp+UCLD+EGgr.xml**
-- Sub. model - HKY+G4+I (Empirical freqs)
+- Sub. model - HKY+G4 (Empirical freqs)
 - Mol. clock - Relaxed clock (Lognormal)
 - Tree prior - Exponential growth (Growth rate)
 
